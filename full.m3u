@@ -3,7 +3,7 @@
 http://103.205.133.20/hls/banglavision.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla Vision HD" tvg-logo="" group-title="Bangla",Bangla Vision HD
 http://103.205.133.20/hls/banglavision.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",Bijoy Tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel I" tvg-logo="" group-title="Bangla",Channel I
 http://103.205.133.48/hls/ichannel.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna tv" tvg-logo="" group-title="Bangla",Jamuna tv
 http://103.205.133.20/hls/jamunatv.m3u8
@@ -17,7 +17,7 @@ http://103.205.133.20/hls/ten1.m3u8
 http://103.205.133.20/hls/ten2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 3" tvg-logo="" group-title="Sports",Sony Ten 3
 http://103.205.133.20/hls/ten3.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel I HD 2" tvg-logo="" group-title="Bangla",Channel I HD 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",Bijoy Tv
 http://103.205.133.20/hls/bijoytv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel I HD 3" tvg-logo="" group-title="Bangla",Channel I HD 3
 http://103.132.180.245:8080/5/index.m3u8
@@ -169,4 +169,108 @@ http://162.244.81.142:1935/live/livestream/playlist.m3u8?@amarnettv.live
 http://nandansyst.com/hls/nandan.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Orange Bangla [IN]" tvg-logo="" group-title="Bangla",Orange Bangla [IN]
 https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="" group-title="India Bangla",Sony Aath
+http://103.205.133.20/hls/sony8.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath 2" tvg-logo="" group-title="India Bangla",Sony Aath 2
+https://botallen.live/t/34/master.m3u8?signature=860a60da276b0609ca9be011f782473f43364274&unique=1e612df97397ed212ba8e405a6bbab03
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath 3" tvg-logo="" group-title="India Bangla",Sony Aath 3
+http://103.205.133.48/hls/sony8.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla SD" tvg-logo="" group-title="India Bangla",Zee Bangla SD
+http://103.205.133.20/hls/zeebangla.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD" tvg-logo="" group-title="India Bangla",Zee Bangla HD
+https://botallen.live/t/522/master.m3u8?signature=51d5f6a4b6fce539d95b63009dd3b595d9aec666&unique=1e612df97397ed212ba8e405a6bbab03
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha SD" tvg-logo="" group-title="India Bangla",Star Jalsha SD
+http://103.205.133.20/hls/chsj.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="" group-title="India Bangla",Star Jalsha HD
+https://botallen.live/t/468/master.m3u8?signature=6576c4db8574fccb8ae26a5dae174df6269ab1af&unique=383dc6ddcdd3b7166230423ea3b90f6e
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalsha Movies HD" tvg-logo="" group-title="India Bangla",Jalsha Movies HD
+https://botallen.live/t/537/master.m3u8?signature=faecfc983d285e655226b7347fe2ec15f42364c9&unique=1e612df97397ed212ba8e405a6bbab03
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aakaash Aath" tvg-logo="" group-title="India Bangla",Aakaash Aath
+https://botallen.live/t/129/master.m3u8?signature=8156ffa19cd44b2e47f1d9ea19e777db1fc9d4fb&unique=1e612df97397ed212ba8e405a6bbab03
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla ICC" tvg-logo="" group-title="India Bangla",Colors Bangla ICC
+http://10.16.100.205/hls/colorsbd480.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla HD" tvg-logo="" group-title="India Bangla",Colors Bangla HD
+https://botallen.live/t/305/master.m3u8?signature=b534321514f567414b26665c77806ce7ad86a134&unique=1e612df97397ed212ba8e405a6bbab03
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cineema" tvg-logo="" group-title="India Bangla",Zee Bangla Cineema
+http://z5amshls.akamaized.net/zbanglacnm/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal PlaNet Hindi" tvg-logo="" group-title="Discovery",Animal PlaNet Hindi SD
+http://streamitv.multitvsolution.in/idvo/aphdhindi_360p/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Bangla SD" tvg-logo="" group-title="Discovery",Discovery Bangla SD
+http://streamitv.multitvsolution.in/idvo/discoverybengali_360p/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery science Hindi SD" tvg-logo="" group-title="Discovery",Discovery science Hindi SD
+http://streamitv.multitvsolution.in/idvo/discoversciencehindi_360p/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Hindi SD" tvg-logo="" group-title="Discovery",Discovery Hindi SD
+http://streamitv.multitvsolution.in/idvo/discoveryhindi_360p/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Eng SD" tvg-logo="" group-title="Discovery",Discovery Eng SD
+http://streamitv.multitvsolution.in/idvo/discoveryhd_360p/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tlc English SD" tvg-logo="" group-title="Discovery",Tlc English SD
+http://streamitv.multitvsolution.in/idvo/tlceng_360p/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tlc Hindi SD" tvg-logo="" group-title="Discovery",Tlc Hindi SD
+http://streamitv.multitvsolution.in/idvo/tlchdhindi_360p/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
