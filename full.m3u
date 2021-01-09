@@ -3,6 +3,8 @@
 http://103.205.133.20/hls/banglavision.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla Vision HD" tvg-logo="" group-title="Bangla",Bangla Vision HD
 http://103.205.133.20/hls/banglavision.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asian TV" tvg-logo="" group-title="Bangla",Asian TV
+http://163.172.29.246:8081/globalbd/asian/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel I" tvg-logo="" group-title="Bangla",Channel I
 http://103.205.133.48/hls/ichannel.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna tv" tvg-logo="" group-title="Bangla",Jamuna tv
@@ -53,6 +55,8 @@ http://10.16.100.203:8082/bangla/tv_asian.m3u8
 http://10.16.100.207:8082/sports/sportst.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV HD" tvg-logo="" group-title="Bangla",GTV HD
 http://10.16.100.203:8082/bangla/gtv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV HD 2" tvg-logo="" group-title="Bangla",GTV HD 2
+http://163.172.29.246:8081/globalbd/gazitv/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna Tv Icc" tvg-logo="" group-title="Bangla",Jamuna Tv Icc
 http://10.16.100.203:8082/bangla/jamuna_720.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN Bangla ICC" tvg-logo="" group-title="Bangla",ATN Bangla ICC
@@ -99,6 +103,8 @@ http://103.205.133.20/hls/independent.m3u8
 http://10.16.100.203:8082/bangla/nagorik.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy tv" tvg-logo="" group-title="Bangla",Somoy tv
 http://103.205.133.20/hls/somoy.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy tv 3" tvg-logo="" group-title="Bangla",Somoy tv 3
+http://23.106.120.42:1932/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="" group-title="Bangla",ATN News
 http://10.16.100.205/hls/news_atn_london720.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boishakhi" tvg-logo="" group-title="Bangla",Boishakhi
@@ -119,14 +125,18 @@ https://rhridoy136.shortcm.li/channel9.m3u8
 https://rhridoy136.shortcm.li/channeli.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DBC News" tvg-logo="" group-title="Bangla",DBC News
 https://rhridoy136.shortcm.li/dbcnews.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="R Plus Gold" tvg-logo="" group-title="Bangla",R Plus Gold
+https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="" group-title="Bangla",Desh TV
 https://rhridoy136.shortcm.li/deshtv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor TV" tvg-logo="" group-title="Bangla",Ekattor TV
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
+http://163.172.29.246:8081/globalbd/ekattor/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EKUSHEY TV HD" tvg-logo="" group-title="Bangla",EKUSHEY TV HD
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="" group-title="Bangla",Independent
 https://rhridoy136.shortcm.li/independenttv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent 2" tvg-logo="" group-title="Bangla",Independent 2
+http://163.172.29.246:8081/globalbd/independent/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="" group-title="Bangla",Jamuna TV
 https://rhridoy136.shortcm.li/jamunatv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="" group-title="Bangla",Jamuna TV
@@ -134,7 +144,7 @@ http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/8.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMUNA TV HD" tvg-logo="" group-title="Bangla",JAMUNA TV HD
 http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/8.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maasranga HD" tvg-logo="" group-title="Bangla",,Maasranga HD
-http://ctgiptv.kitv.live:1935/live/test/test1/1.ts
+http://163.172.29.246:8081/globalbd/maasranga/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maasranga TV 3" tvg-logo="" group-title="Bangla",Maasranga TV 3
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOHONA TV" tvg-logo="" group-title="Bangla",MOHONA TV
@@ -151,8 +161,10 @@ https://rhridoy136.shortcm.li/sangsadtv.m3u8
 https://rhridoy136.shortcm.li/satv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shomoy TV" tvg-logo="" group-title="Bangla",Shomoy TV
 https://rhridoy136.shortcm.li/shomoytv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shomoy TV" tvg-logo="" group-title="Bangla",Shomoy TV 2
+http://163.172.29.246:8081/globalbd/somoy/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Duronto Tv" tvg-logo="" group-title="Bangla",Duronto Tv
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
+http://163.172.29.246:8081/globalbd/duronto/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NRB" tvg-logo="" group-title="Bangla",NRB
 https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Time tv" tvg-logo="" group-title="Bangla",Time tv
@@ -175,8 +187,12 @@ http://103.205.133.20/hls/sony8.m3u8
 https://botallen.live/t/34/master.m3u8?signature=860a60da276b0609ca9be011f782473f43364274&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath 3" tvg-logo="" group-title="India Bangla",Sony Aath 3
 http://103.205.133.48/hls/sony8.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath 4" tvg-logo="" group-title="India Bangla",Sony Aath 4
+http://163.172.29.246:8081/globalbd/sonyaath/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla SD" tvg-logo="" group-title="India Bangla",Zee Bangla SD
 http://103.205.133.20/hls/zeebangla.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD 1" tvg-logo="" group-title="India Bangla",Zee Bangla HD 1
+http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD" tvg-logo="" group-title="India Bangla",Zee Bangla HD
 https://botallen.live/t/522/master.m3u8?signature=51d5f6a4b6fce539d95b63009dd3b595d9aec666&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha SD" tvg-logo="" group-title="India Bangla",Star Jalsha SD
@@ -184,11 +200,15 @@ http://103.205.133.20/hls/chsj.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="" group-title="India Bangla",Star Jalsha HD
 https://botallen.live/t/468/master.m3u8?signature=6576c4db8574fccb8ae26a5dae174df6269ab1af&unique=383dc6ddcdd3b7166230423ea3b90f6e
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalsha Movies HD" tvg-logo="" group-title="India Bangla",Jalsha Movies HD
+http://163.172.29.246:8081/globalbd/starjalshamovies/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalsha Movies HD 2" tvg-logo="" group-title="India Bangla",Jalsha Movies HD 2
 https://botallen.live/t/537/master.m3u8?signature=faecfc983d285e655226b7347fe2ec15f42364c9&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aakaash Aath" tvg-logo="" group-title="India Bangla",Aakaash Aath
 https://botallen.live/t/129/master.m3u8?signature=8156ffa19cd44b2e47f1d9ea19e777db1fc9d4fb&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla ICC" tvg-logo="" group-title="India Bangla",Colors Bangla ICC
 http://10.16.100.205/hls/colorsbd480.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla HD 1" tvg-logo="" group-title="India Bangla",Colors Bangla HD 1
+http://163.172.29.246:8081/globalbd/colorsbangla/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla HD" tvg-logo="" group-title="India Bangla",Colors Bangla HD
 https://botallen.live/t/305/master.m3u8?signature=b534321514f567414b26665c77806ce7ad86a134&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cineema" tvg-logo="" group-title="India Bangla",Zee Bangla Cineema
@@ -267,16 +287,26 @@ https://botallen.live/t/406/master.m3u8?signature=7cc2600e71bccf4f91dd4fcee85cdf
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zing" tvg-logo="" group-title="Music",Zing
 http://z5amshls.akamaized.net/zing/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4Music" tvg-logo="" group-title="Music",B4Music
+https://botallen.live/t/9/master.m3u8?signature=01d3273a4f2a635c7f524bdcf62951554795175d&unique=1e612df97397ed212ba8e405a6bbab03
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sangeet Bangla" tvg-logo="" group-title="Music",Sangeet Bangla
+http://103.205.133.20/hls/sangeetbangla.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sangeet Bangla 2" tvg-logo="" group-title="Music",Sangeet Bangla 2
+http://10.16.100.207:8082/sports/sangeet_bangla.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sangeet Bangla 3" tvg-logo="" group-title="Music",Sangeet Bangla 3
+https://botallen.live/t/215/master.m3u8?signature=8dd5fab1d6f48dfc4ed0b8ccf3c71ee98a1420fe&unique=1e612df97397ed212ba8e405a6bbab03
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dhoom" tvg-logo="" group-title="Music",Dhoom
+http://103.205.133.20/hls/dhoommusic.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tarang Music" tvg-logo="" group-title="Music",Tarang Music
+https://botallen.live/t/50/master.m3u8?signature=eaa3b19229859d0ec6cfd207cac388c68f4fc52b&unique=1e612df97397ed212ba8e405a6bbab03
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Public Music" tvg-logo="" group-title="Music",Public Music
+https://botallen.live/t/424/master.m3u8?signature=20adcbe6eebd4bcb221f824b56107e6448fc8a48&unique=1e612df97397ed212ba8e405a6bbab03
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masti" tvg-logo="" group-title="Music",Masti
+https://botallen.live/t/17/master.m3u8?signature=8dfe079131f9f1a40228a06bcba5cbeb7a8d942e&unique=1e612df97397ed212ba8e405a6bbab03
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masti 2" tvg-logo="" group-title="Music",Masti 2
+http://10.16.100.207:8082/sports/mtuness.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Music",Zoom
+https://botallen.live/t/96/master.m3u8?signature=31a0abc545786337f29137c2f25575bcb82cd4e1&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Music",
-
-
-
-
-
-
-
-
-
-
 
 
