@@ -241,33 +241,33 @@ https://botallen.live/t/45/master.m3u8?signature=682cc89724efa76b49d77281a403f3d
 https://botallen.live/t/138/master.m3u8?signature=d402535eaaa896a3bbd9665c47c311790c55a132&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="" group-title="Kids",Sonic
 https://botallen.live/t/127/master.m3u8?signature=61ca0e4a2eb85e59be28b42ab186782a62a30a7e&unique=1e612df97397ed212ba8e405a6bbab03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network Eng" tvg-logo="" group-title="Kids",Cartoon Network Eng
+https://botallen.live/t/681/master.m3u8?signature=59efedc877812aceefa25f46161c45fe6951ba3a&unique=1e612df97397ed212ba8e405a6bbab03
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network Hindi" tvg-logo="" group-title="Kids",Cartoon Network Hindi
+https://botallen.live/t/238/master.m3u8?signature=c5a97cb7d8a967fa693ac2b15dc9c4aabb80205d&unique=1e612df97397ed212ba8e405a6bbab03
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9xm" tvg-logo="" group-title="Music",9xm
+http://103.205.133.20/hls/9xm.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9xm 2" tvg-logo="" group-title="Music",9xm 2
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="9xm 3" group-title="Music",9xm 3
+https://botallen.live/z/0-9-131/master.m3u8?signature=82e186898299c4e59e2910f312aeed958d164349&unique=1e612df97397ed212ba8e405a6bbab03
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9X Jhakaas" tvg-logo="" group-title="Music",9X Jhakaas
+https://botallen.live/t/74/master.m3u8?signature=127facc29842b2a8863b05ecbc8cee57c1995d11&unique=1e612df97397ed212ba8e405a6bbab03
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9X Jalwa" tvg-logo="" group-title="Music",9X Jalwa
+https://botallen.live/t/39/master.m3u8?signature=bd6a9a1f8b7baf9b5132e600d2f665ef1a7c4f5c&unique=1e612df97397ed212ba8e405a6bbab03
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="9X Jalwa 2" group-title="Music",9X Jalwa 2
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9x Tashan" tvg-logo="" group-title="Music",9x Tashan
+https://botallen.live/t/62/master.m3u8?signature=07d1d48c819f93a2f9f0c5d80674a53c5f7fb160&unique=1e612df97397ed212ba8e405a6bbab03
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Beats HD" tvg-logo="" group-title="Music",MTV Beats HD
+https://botallen.live/t/405/master.m3u8?signature=21d9e1d463494d8193dfd73c3c37989cd3c8e6eb&unique=1e612df97397ed212ba8e405a6bbab03
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="MTV HD" group-title="Music",MTV HD
+https://botallen.live/t/406/master.m3u8?signature=7cc2600e71bccf4f91dd4fcee85cdfad56325ae8&unique=1e612df97397ed212ba8e405a6bbab03
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="Music India" group-title="Music",Music India
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zing" tvg-logo="" group-title="Music",Zing
+http://z5amshls.akamaized.net/zing/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Music",
 
 
 
