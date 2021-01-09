@@ -1,212 +1,172 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BanglaVission" tvg-logo="" group-title="Bangla",BanglaVission
 http://103.205.133.20/hls/banglavision.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",Bangla Vision HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla Vision HD" tvg-logo="" group-title="Bangla",Bangla Vision HD
 http://103.205.133.20/hls/banglavision.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",Bijoy Tv
 http://103.205.133.48/hls/ichannel.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",Jamuna tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna tv" tvg-logo="" group-title="Bangla",Jamuna tv
 http://103.205.133.20/hls/jamunatv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",DBC News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DBC News" tvg-logo="" group-title="Bangla",DBC News
 http://103.205.133.20/hls/dbcnews.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Sports",Sony Six
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Six" tvg-logo="" group-title="Sports",Sony Six
 http://103.205.133.20/hls/sonysix.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Sports",Sony Ten 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1" tvg-logo="" group-title="Sports",Sony Ten 1
 http://103.205.133.20/hls/ten1.m3u8
-#EXTINF:0,Sony Ten 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 2" tvg-logo="" group-title="Sports",Sony Ten 2
 http://103.205.133.20/hls/ten2.m3u8
-#EXTINF:0,Sony Ten 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 3" tvg-logo="" group-title="Sports",Sony Ten 3
 http://103.205.133.20/hls/ten3.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",Channel I HD 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel I HD 2" tvg-logo="" group-title="Bangla",Channel I HD 2
 http://103.205.133.20/hls/bijoytv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",Channel I HD 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel I HD 3" tvg-logo="" group-title="Bangla",Channel I HD 3
 http://103.132.180.245:8080/5/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",Deepto tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Deepto tv" tvg-logo="" group-title="Bangla",Deepto tv
 http://103.205.133.48/hls/deeptotv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",Ekhushe news
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekhushe news" tvg-logo="" group-title="Bangla",Ekhushe news
 http://103.205.133.20/hls/ekushey.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",ATN Bangla
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN Bangla" tvg-logo="" group-title="Bangla",ATN Bangla
 http://103.205.133.20/hls/atnbangla.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",Mohona tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mohona tv" tvg-logo="" group-title="Bangla",Mohona tv
 http://103.205.133.20/hls/mohonatv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",Deepto tv 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Deepto tv 2" tvg-logo="" group-title="Bangla",Deepto tv 2
 http://103.205.133.20/hls/deeptotv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",Channel 24
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 24" tvg-logo="" group-title="Bangla",Channel 24
 http://103.205.133.20/hls/channel24.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",Gaan Bangla
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="" group-title="Bangla",Gaan Bangla
 http://103.205.133.20/hls/gaanbangla.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",ATN Islamic
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN Islamic" tvg-logo="" group-title="Bangla",ATN Islamic
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",ATN Music
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN Music" tvg-logo="" group-title="Bangla",ATN Music
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",My Cinema
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="My Cinema" tvg-logo="" group-title="Bangla",My Cinema
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",BTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="" group-title="Bangla",BTV
 http://103.205.133.48/hls/btv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",BTV 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV 2" tvg-logo="" group-title="Bangla",BTV 2
 http://103.205.133.20/hls/btv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="India Vip",Colors SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors SD" tvg-logo="" group-title="Indian Vip",Colors SD
 http://103.205.133.20/hls/chc.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",Asian tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asian tv" tvg-logo="" group-title="Bangla",Asian tv
 http://10.16.100.203:8082/bangla/tv_asian.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",T Sports ICC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports ICC" tvg-logo="" group-title="Sports",T Sports ICC
 http://10.16.100.207:8082/sports/sportst.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",GTV HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV HD" tvg-logo="" group-title="Bangla",GTV HD
 http://10.16.100.203:8082/bangla/gtv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",Jamuna Tv Icc
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna Tv Icc" tvg-logo="" group-title="Bangla",Jamuna Tv Icc
 http://10.16.100.203:8082/bangla/jamuna_720.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",ATN Bangla ICC"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN Bangla ICC" tvg-logo="" group-title="Bangla",ATN Bangla ICC
 http://10.16.100.203:8082/bangla/atnbangla.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",Masranga
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masranga" tvg-logo="" group-title="Bangla",Masranga
 http://ctgiptv.kitv.live:1935/live/test/test1/1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",My TV 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="My TV " tvg-logo="" group-title="Bangla",My TV 
 http://103.205.133.20/hls/mytv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",My TV 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="My TV 2" tvg-logo="" group-title="Bangla",My TV 2
 http://103.205.133.48/hls/mytv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",RTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV" tvg-logo="" group-title="Bangla",RTV
 http://103.205.133.20/hls/rtv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",RTV 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV 2" tvg-logo="" group-title="Bangla",RTV 2
 http://103.205.133.48/hls/rtv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",SATV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SATV" tvg-logo="" group-title="Bangla",SATV
 http://103.205.133.48/hls/satv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",SATV 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SATV 2" tvg-logo="" group-title="Bangla",SATV 2
 http://103.205.133.20/hls/satv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",NTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTV" tvg-logo="" group-title="Bangla",NTV
 http://103.205.133.20/hls/ntv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",NTV 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTV 2" tvg-logo="" group-title="Bangla",NTV 2
 http://103.205.133.48/hls/ntv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",Nagorik tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nagorik tv" tvg-logo="" group-title="Bangla",Nagorik tv
 http://103.205.133.20/hls/nagorik.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",News 24
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="" group-title="Bangla",News 24
 http://103.205.133.20/hls/news24.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",News 24 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 24 2" tvg-logo="" group-title="Bangla",News 24 2
 http://103.205.133.48/hls/news24.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",Gaan Bangla
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="" group-title="Bangla",Gaan Bangla
 http://103.205.133.48/hls/gaanbangla.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",Ekhushe Tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekhushe Tv" tvg-logo="" group-title="Bangla",Ekhushe Tv
 http://103.205.133.48/hls/ekushey.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",Bangla Tv ICC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla Tv ICC" tvg-logo="" group-title="Bangla",Bangla Tv ICC
 http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",Bijoy Tv ICC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv ICC" tvg-logo="" group-title="Bangla",Bijoy Tv ICC
 http://10.16.100.203:8082/bangla/bijoytv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",Deepto Tv ICC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Deepto Tv ICC" tvg-logo="" group-title="Bangla",Deepto Tv ICC
 http://10.16.100.203:8082/bangla/deeptotv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",Desh Tv ICC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh Tv ICC" tvg-logo="" group-title="Bangla",Desh Tv ICC
 http://10.16.100.205/hls/des_tv_local480.m3u8
-#EXTINF:0,Independent Tv ICC
-http://10.16.100.203:8082/bangla/news_independent.m3u8
-#EXTINF:0,Nagorik Tv ICC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent Tv ICC" tvg-logo="" group-title="Bangla",Independent Tv ICC
+http://103.205.133.20/hls/independent.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nagorik Tv ICC" tvg-logo="" group-title="Bangla",Nagorik Tv ICC
 http://10.16.100.203:8082/bangla/nagorik.m3u8
-#EXTINF:0,Somoy tv
-http://163.172.29.246:8081/globalbd/somoy/chunks.m3u8
-#EXTINF:0,ATN News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy tv" tvg-logo="" group-title="Bangla",Somoy tv
+http://103.205.133.20/hls/somoy.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="" group-title="Bangla",ATN News
 http://10.16.100.205/hls/news_atn_london720.m3u8
-#EXTINF:0,Boishakhi
-http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
-#EXTINF:0,CHANNEL 24
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boishakhi" tvg-logo="" group-title="Bangla",Boishakhi
+http://103.205.133.20/hls/boisakhi.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 24" tvg-logo="" group-title="Bangla",CHANNEL 24 ICC
 http://10.16.100.205/hls/ch24.m3u8
-#EXTINF:0,Channel 9 ICC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 24" tvg-logo="" group-title="Bangla",CHANNEL 24
+http://103.205.133.20/hls/channel24.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 9 ICC" tvg-logo="" group-title="Bangla",Channel 9 ICC
 http://10.16.100.203:8082/bangla/CHANNEL9.m3u8
-#EXTINF:0,AND TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AND TV" tvg-logo="" group-title="Indian Vip",AND TV
 http://103.205.133.20/hls/andtv.m3u8
-#EXTINF:0,M Tune
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M Tune" tvg-logo="" group-title="Music",M Tune
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
-#EXTINF:0,Channel 9 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 9 2" tvg-logo="" group-title="Bangla",Channel 9 2
 https://rhridoy136.shortcm.li/channel9.m3u8
-#EXTINF:0,Channel I
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel I" tvg-logo="" group-title="Bangla",Channel I
 https://rhridoy136.shortcm.li/channeli.m3u8
-#EXTINF:0,DBC News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DBC News" tvg-logo="" group-title="Bangla",DBC News
 https://rhridoy136.shortcm.li/dbcnews.m3u8
-#EXTINF:0,Desh TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="" group-title="Bangla",Desh TV
 https://rhridoy136.shortcm.li/deshtv.m3u8
-#EXTINF:0,Ekattor TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor TV" tvg-logo="" group-title="Bangla",Ekattor TV
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
-#EXTINF:0,EKUSHEY TV HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EKUSHEY TV HD" tvg-logo="" group-title="Bangla",EKUSHEY TV HD
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:0,Independent
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="" group-title="Bangla",Independent
 https://rhridoy136.shortcm.li/independenttv.m3u8
-#EXTINF:0,Jamuna TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="" group-title="Bangla",Jamuna TV
 https://rhridoy136.shortcm.li/jamunatv.m3u8
-#EXTINF:0,Jamuna TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="" group-title="Bangla",Jamuna TV
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/8.m3u8
-#EXTINF:0,JAMUNA TV HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMUNA TV HD" tvg-logo="" group-title="Bangla",JAMUNA TV HD
 http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/8.m3u8
-#EXTINF:0,Maasranga HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maasranga HD" tvg-logo="" group-title="Bangla",,Maasranga HD
 http://ctgiptv.kitv.live:1935/live/test/test1/1.ts
-#EXTINF:0,Maasranga TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maasranga TV 3" tvg-logo="" group-title="Bangla",Maasranga TV 3
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/1.m3u8
-#EXTINF:0,MOHONA TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOHONA TV" tvg-logo="" group-title="Bangla",MOHONA TV
 https://rhridoy136.shortcm.li/mohonatv.m3u8
-#EXTINF:0,MY TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MY TV" tvg-logo="" group-title="Bangla",MY TV
 https://rhridoy136.shortcm.li/mytv.m3u8
-#EXTINF:0,News 24
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="" group-title="Bangla",News 24
 https://rhridoy136.shortcm.li/news24.m3u8
-#EXTINF:0,RTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy Tv" tvg-logo="" group-title="Bangla",RTV
 https://rhridoy136.shortcm.li/rtv.m3u8
-#EXTINF:0,Sangsad TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV" tvg-logo="" group-title="Bangla",Sangsad TV
 https://rhridoy136.shortcm.li/sangsadtv.m3u8
-#EXTINF:0,SATV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SATV" tvg-logo="" group-title="Bangla",SATV
 https://rhridoy136.shortcm.li/satv.m3u8
-#EXTINF:0,Shomoy TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shomoy TV" tvg-logo="" group-title="Bangla",Shomoy TV
 https://rhridoy136.shortcm.li/shomoytv.m3u8
-#EXTINF:0,Duronto Tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Duronto Tv" tvg-logo="" group-title="Bangla",Duronto Tv
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
-#EXTINF:0,Magic bangla tv
-http://enaniptv.com/magicbanglatv/1080/index.m3u8
-#EXTINF:0,NRB
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NRB" tvg-logo="" group-title="Bangla",NRB
 https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
-#EXTINF:0,Time tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Time tv" tvg-logo="" group-title="Bangla",Time tv
 https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/chunks.m3u8
-#EXTINF:0,Times 24
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Times 24" tvg-logo="" group-title="Bangla",Times 24
 https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/times24tv.stream/chunks.m3u8
-#EXTINF:0,Voice tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Voice tv" tvg-logo="" group-title="Bangla",Voice tv
 https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
-#EXTINF:0,Bongo TV [BD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bongo TV [BD]" tvg-logo="" group-title="Bangla",Bongo TV [BD]
 http://103.109.213.18:5563/live/bongotv/chunklist_w937507918.m3u8
-#EXTINF:0,ITV IPTV [BD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITV IPTV [BD]" tvg-logo="" group-title="Bangla",ITV IPTV [BD]
 http://162.244.81.142:1935/live/livestream/playlist.m3u8?@amarnettv.live
-#EXTINF:0,NANDAN IPTV [BD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NANDAN IPTV [BD]" tvg-logo="" group-title="Bangla",NANDAN IPTV [BD]
 http://nandansyst.com/hls/nandan.m3u8?@amarnettv.live
-#EXTINF:0,Orange Bangla [IN]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Orange Bangla [IN]" tvg-logo="" group-title="Bangla",Orange Bangla [IN]
 https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
-#EXTINF:0,71 Bangla
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/71bangla.stream/playlist.m3u8
-#EXTINF:0,Alpona TV
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/alponatv.stream/playlist.m3u8
-#EXTINF:0,Ayna TV
-http://str24.l9574.com/510.stream/tracks-v1a1/index.m3u8
-#EXTINF:0,Bangla 21
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/playlist.m3u8
-#EXTINF:0,Bangla Channel
-http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
-#EXTINF:0,Bijoy TV
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/playlist.m3u8
-#EXTINF:0,Biswa Bangla 24
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/biswabanglatv.stream/playlist.m3u8
-#EXTINF:0,BTV Chattogram
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/playlist.m3u8
-#EXTINF:0,Channel S (UK)
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
-#EXTINF:0,Deshe Bideshe
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/playlist.m3u8
-#EXTINF:0,Her Net
-https://server1.jadubd.com/hernettv/hernettv/playlist.m3u8
-#EXTINF:0,Jagoroni TV
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jagoronitv.stream/playlist.m3u8
-#EXTINF:0,Joy Jatra
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/joyjatratv.stream/playlist.m3u8
-#EXTINF:0,Ktv Bangla
-https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
-#EXTINF:0,Nakshi IPTV
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nakshitv.stream/playlist.m3u8
-#EXTINF:0,NAN TV
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nantv.stream/playlist.m3u8
-#EXTINF:0,Nandan
-http://nandansyst.com/hls/nandan.m3u8
-#EXTINF:0,Natun Somoy
-http://server1.jadubd.com/natunTV/natunTV/chunklist_w1287147693.m3u8
-#EXTINF:0,NRB TV
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/playlist.m3u8
-#EXTINF:0,PAN Vision
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/playlist.m3u8
-#EXTINF:0,
+
