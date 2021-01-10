@@ -5,8 +5,8 @@ http://103.205.133.20/hls/banglavision.m3u8
 http://103.205.133.20/hls/banglavision.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asian TV" tvg-logo="" group-title="Bangla",Asian TV
 http://163.172.29.246:8081/globalbd/asian/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel I" tvg-logo="" group-title="Bangla",Channel I
-http://103.205.133.48/hls/ichannel.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Khusboo" tvg-logo="" group-title="Bangla",Khusboo
+https://streamitv.multitvsolution.in/idvo/khushboo.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna tv" tvg-logo="" group-title="Bangla",Jamuna tv
 http://103.205.133.20/hls/jamunatv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DBC News" tvg-logo="" group-title="Bangla",DBC News
@@ -140,10 +140,10 @@ http://163.172.29.246:8081/globalbd/independent/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="" group-title="Bangla",Jamuna TV
 https://rhridoy136.shortcm.li/jamunatv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="" group-title="Bangla",Jamuna TV
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/8.m3u8
+http://103.205.133.20/hls/jamunatv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMUNA TV HD" tvg-logo="" group-title="Bangla",JAMUNA TV HD
-http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/8.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maasranga HD" tvg-logo="" group-title="Bangla",,Maasranga HD
+http://163.172.29.246:8081/globalbd/channel9/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maasranga HD" tvg-logo="" group-title="Bangla",Maasranga HD
 http://163.172.29.246:8081/globalbd/maasranga/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maasranga TV 3" tvg-logo="" group-title="Bangla",Maasranga TV 3
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/1.m3u8
@@ -165,6 +165,8 @@ https://rhridoy136.shortcm.li/shomoytv.m3u8
 http://163.172.29.246:8081/globalbd/somoy/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Duronto Tv" tvg-logo="" group-title="Bangla",Duronto Tv
 http://163.172.29.246:8081/globalbd/duronto/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Duronto Tv 2" tvg-logo="" group-title="Bangla",Duronto Tv 2
+http://43.251.86.6:8080/hls/channel_1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NRB" tvg-logo="" group-title="Bangla",NRB
 https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Time tv" tvg-logo="" group-title="Bangla",Time tv
@@ -175,10 +177,16 @@ https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bongo TV [BD]" tvg-logo="" group-title="Bangla",Bongo TV [BD]
 http://103.109.213.18:5563/live/bongotv/chunklist_w937507918.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="23 Channel" tvg-logo="" group-title="Bangla",23 Channel
+http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITV IPTV [BD]" tvg-logo="" group-title="Bangla",ITV IPTV [BD]
 http://162.244.81.142:1935/live/livestream/playlist.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NANDAN IPTV [BD]" tvg-logo="" group-title="Bangla",NANDAN IPTV [BD]
 http://nandansyst.com/hls/nandan.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="G Bangla" tvg-logo="" group-title="Bangla",G Bangla
+https://iptv10.raytahost.com/desh/gbangla/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="ABB Anondo" group-title="Bangla",ABB Anondo
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Orange Bangla [IN]" tvg-logo="" group-title="Bangla",Orange Bangla [IN]
 https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="" group-title="India Bangla",Sony Aath
@@ -255,6 +263,8 @@ https://botallen.live/t/235/master.m3u8?signature=9fbc252f9b5543bf3f77c568ea6126
 https://botallen.live/t/246/master.m3u8?signature=46cf055c426aa2e9a578c15110f7cad198979853&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Sel 2 HD" tvg-logo="" group-title="Sports",Star Sports Sel 2 HD
 https://botallen.live/t/463/master.m3u8?signature=9a85ca754a0977c4212a323f658208c4059ed65a&unique=1e612df97397ed212ba8e405a6bbab03
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ptv Sports" tvg-logo="" group-title="Sports",Ptv Sports
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_360p/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Hindi" tvg-logo="" group-title="Kids",Disney Hindi
 https://botallen.live/t/114/master.m3u8?signature=d7cf2d220ce75641f2c7f09340bbac228f50adf4&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids Hindi" tvg-logo="" group-title="Kids",Discovery Kids Hindi
@@ -315,8 +325,10 @@ https://botallen.live/t/424/master.m3u8?signature=20adcbe6eebd4bcb221f824b56107e
 https://botallen.live/t/17/master.m3u8?signature=8dfe079131f9f1a40228a06bcba5cbeb7a8d942e&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masti 2" tvg-logo="" group-title="Music",Masti 2
 http://10.16.100.207:8082/sports/mtuness.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Music",Zoom
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zoom" tvg-logo="" group-title="Music",Zoom
 https://botallen.live/t/96/master.m3u8?signature=31a0abc545786337f29137c2f25575bcb82cd4e1&unique=1e612df97397ed212ba8e405a6bbab03
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desi Channel" tvg-logo="" group-title="Music",Desi Channel
+http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Indian Vip",Star Plus SD
 http://103.205.133.20/hls/chsp.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Plus HD" tvg-logo="" group-title="Indian Vip",Star Plus HD
@@ -353,7 +365,21 @@ https://botallen.live/t/562/master.m3u8?signature=bf1b66954302aed2d8aae139afb83a
 https://botallen.live/t/194/master.m3u8?signature=e52c01545d57de48fee0c0c01757014274780637&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee TV HD" tvg-logo="" group-title="Indian Vip",Zee TV HD
 https://botallen.live/z/0-9-zeetvhd/master.m3u8?signature=4ab55d8ac1a7016d5f8e9477c83f3cdeac9617c0&unique=1e612df97397ed212ba8e405a6bbab03
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dangallogo="" group-title="Indian Vip",Dangal
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dangal" logo="" group-title="Indian Vip",Dangal
 https://botallen.live/t/51/master.m3u8?signature=20da25e6b73613e0043797b6575ff209af87aabb&unique=1e612df97397ed212ba8e405a6bbab03
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dangallogo="" group-title="Indian Vip",Epic
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Epic" logo="" group-title="Indian Vip",Epic
 https://botallen.live/t/126/master.m3u8?signature=c9ee6eb6f2aa95acf4fd0f0068aa592942ba39ab&unique=1e612df97397ed212ba8e405a6bbab03
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="And Picture HD" logo="" group-title="Indian Vip",And Picture HD
+http://z5amshls.akamaized.net/andpicshd/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="And Picture" logo="" group-title="Indian Vip",And Pic
+http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cinema HD" logo="" group-title="Indian Vip",Zee Cinema HD
+http://z5amshls.akamaized.net/zeecinemame/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Magic" logo="" group-title="Indian Vip",Zee Magic
+http://z5amshls.akamaized.net/magic/playlist.m3u8
+
+
+
+
+
+
