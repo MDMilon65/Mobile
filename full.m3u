@@ -265,7 +265,7 @@ https://botallen.live/t/246/master.m3u8?signature=46cf055c426aa2e9a578c15110f7ca
 https://botallen.live/t/463/master.m3u8?signature=9a85ca754a0977c4212a323f658208c4059ed65a&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ptv Sports" tvg-logo="" group-title="Sports",Ptv Sports
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_360p/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Hindi" tvg-logo="" group-title="Kids",Disney Hindi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png" group-title="Kids",Disney Hindi
 https://botallen.live/t/114/master.m3u8?signature=d7cf2d220ce75641f2c7f09340bbac228f50adf4&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids Hindi" tvg-logo="" group-title="Kids",Discovery Kids Hindi
 https://botallen.live/t/119/master.m3u8?signature=02d96350d1a3c082f0add33c1c9d63e13347ad67&unique=1e612df97397ed212ba8e405a6bbab03
