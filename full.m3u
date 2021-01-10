@@ -377,9 +377,9 @@ http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
 http://z5amshls.akamaized.net/zeecinemame/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Magic" logo="" group-title="Indian Vip",Zee Magic
 http://z5amshls.akamaized.net/magic/playlist.m3u8
-
-
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Big Magic" logo="" group-title="Indian Vip",Big Magic
+https://z5amshls.akamaized.net/bigmagic/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" logo="" group-title="Indian Vip",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8
 
 
