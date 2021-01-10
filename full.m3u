@@ -327,6 +327,8 @@ https://botallen.live/t/17/master.m3u8?signature=8dfe079131f9f1a40228a06bcba5cbe
 http://10.16.100.207:8082/sports/mtuness.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zoom" tvg-logo="" group-title="Music",Zoom
 https://botallen.live/t/96/master.m3u8?signature=31a0abc545786337f29137c2f25575bcb82cd4e1&unique=1e612df97397ed212ba8e405a6bbab03
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dil Se" tvg-logo="" group-title="Music",Dil Se
+https://live.hungama.com/linear/dil-se/playlist.m3u8?@asfaiptv
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desi Channel" tvg-logo="" group-title="Music",Desi Channel
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Indian Vip",Star Plus SD
