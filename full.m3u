@@ -189,13 +189,13 @@ https://iptv10.raytahost.com/desh/gbangla/index.m3u8
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Orange Bangla [IN]" tvg-logo="" group-title="Bangla",Orange Bangla [IN]
 https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="" group-title="India Bangla",Sony Aath
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="India Bangla",Sony Aath
 http://103.205.133.20/hls/sony8.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath 2" tvg-logo="" group-title="India Bangla",Sony Aath 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="India Bangla",Sony Aath 2
 https://botallen.live/t/34/master.m3u8?signature=860a60da276b0609ca9be011f782473f43364274&unique=1e612df97397ed212ba8e405a6bbab03
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath 3" tvg-logo="" group-title="India Bangla",Sony Aath 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="India Bangla",Sony Aath 3
 http://103.205.133.48/hls/sony8.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath 4" tvg-logo="" group-title="India Bangla",Sony Aath 4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="India Bangla",Sony Aath 4
 http://163.172.29.246:8081/globalbd/sonyaath/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla SD" tvg-logo="" group-title="India Bangla",Zee Bangla SD
 http://103.205.133.20/hls/zeebangla.m3u8
@@ -271,6 +271,8 @@ https://botallen.live/t/463/master.m3u8?signature=9a85ca754a0977c4212a323f658208
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_360p/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png" group-title="Kids",Disney Hindi
 https://botallen.live/t/114/master.m3u8?signature=d7cf2d220ce75641f2c7f09340bbac228f50adf4&unique=1e612df97397ed212ba8e405a6bbab03
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Hindi 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png" group-title="Kids",Disney Hindi 2
+Disney Hindi http://182.176.93.225:8000/play/a01m
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="" group-title="Kids",Discovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi_360p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids Hindi" tvg-logo="" group-title="Kids",Discovery Kids Hindi
@@ -360,8 +362,10 @@ https://botallen.live/t/244/master.m3u8?signature=f2349005d07d3b83833582493f8bb2
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Gold HD" tvg-logo="" group-title="Indian Vip",Star Gold HD
 https://botallen.live/t/632/master.m3u8?signature=433042bb0ba0e55af32ea26164a0e052afd2ab31&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Sab HD" tvg-logo="" group-title="Indian Vip",Sony Sab HD
+#EXTVLCOPT:network-caching=1000
 https://botallen.live/j/Sony_SAB_HD/master.m3u8?signature=571be794d409af99bd671ba4e1b5161565e12eb5&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Sab SD" tvg-logo="" group-title="Indian Vip",Sony Sab SD
+#EXTVLCOPT:network-caching=1000
 https://botallen.live/j/Sony_SAB/master.m3u8?signature=56d63921df229c1f763f44d71fbc9b61dfeec41e&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAB HD" tvg-logo="" group-title="Indian Vip",SAB HD
 https://botallen.live/t/48/master.m3u8?signature=b7f82f71201872dfed6bf2d61234dfeeb4f2e760&unique=1e612df97397ed212ba8e405a6bbab03
@@ -372,8 +376,10 @@ https://botallen.live/t/80/master.m3u8?signature=1affecb39b332b65d0076d47dfbc09a
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Max 2" tvg-logo="" group-title="Indian Vip",Sony Max 2
 https://botallen.live/t/120/master.m3u8?signature=7ac7189e48521c119345651d2c0ef159503a5c09&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Indian Vip",Sony Pix HD
+#EXTVLCOPT:network-caching=1000
 https://botallen.live/t/32/master.m3u8?signature=ba0cf778b14a83bc73386bae3a45ff3ab9057554&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Indian Vip",Colors HD
+#EXTVLCOPT:network-caching=1000
 https://botallen.live/t/52/master.m3u8?signature=e81a6037dcda64e5fc49c2289a368476943ca951&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AND TV" tvg-logo="" group-title="Indian Vip",AND TV
 https://botallen.live/j/And_TV_HD/master.m3u8?signature=fc2c046aafd523e743480bb1af21cd0dd06d47ac&unique=1e612df97397ed212ba8e405a6bbab03
@@ -384,6 +390,7 @@ https://botallen.live/z/0-9-channel_2105335046/master.m3u8?signature=df296d15a95
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4Movies" tvg-logo="" group-title="Indian Vip",B4Movies
 https://botallen.live/t/296/master.m3u8?signature=5b5c73a1b7308c19b991383d9594f09647d4de47&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies Now" tvg-logo="" group-title="Indian Vip",Movies Now
+#EXTVLCOPT:network-caching=1000
 https://botallen.live/t/562/master.m3u8?signature=bf1b66954302aed2d8aae139afb83a053a7252b6&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Enter 10 Movies" tvg-logo="" group-title="Indian Vip",Enter 10 Movies
 https://botallen.live/t/194/master.m3u8?signature=e52c01545d57de48fee0c0c01757014274780637&unique=1e612df97397ed212ba8e405a6bbab03
@@ -406,6 +413,7 @@ https://z5amshls.akamaized.net/bigmagic/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" logo="" group-title="Indian Vip",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies Sel HD" logo="" group-title="Indian Vip",Star Movies Sel HD
+#EXTVLCOPT:network-caching=1000
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/chunklist_w1770017437.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ristey cineplex" logo="" group-title="Indian Vip",Ristey cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
