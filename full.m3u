@@ -66,7 +66,7 @@ http://ctgiptv.kitv.live:1935/live/test/test1/1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="My TV " tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="Bangla",My TV 
 http://103.205.133.20/hls/mytv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="My TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="Bangla",My TV 2
-http://103.205.133.48/hls/mytv.m3u8
+http://45.127.244.7:8080/hls/channel4.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG" group-title="Bangla",RTV
 http://103.205.133.20/hls/rtv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG" group-title="Bangla",RTV 2
@@ -84,9 +84,9 @@ http://103.205.133.20/hls/nagorik.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="https://www.news24bd.tv/assets/desktop/images/logos/logo.gif" group-title="Bangla",News 24
 http://103.205.133.20/hls/news24.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 24 2" tvg-logo="https://www.news24bd.tv/assets/desktop/images/logos/logo.gif" group-title="Bangla",News 24 2
-http://103.205.133.48/hls/news24.m3u8
+http://45.127.244.7:8080/hls/channel16.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="https://lh3.googleusercontent.com/proxy/teqLWKWslkv4nz4ug1Yl40qM1xr1UzPp_RXpIbsij2o9Eq1tplV6em01YadZK1EKFJTIFPlKhMKvZFA" group-title="Bangla",Gaan Bangla
-http://103.205.133.48/hls/gaanbangla.m3u8
+http://103.205.133.20/hls/gaanbangla.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekhushe Tv" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngWTcgQbps_gf7DE6qDXepTLkAJGtdTL3K9rrXs_Q=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla",Ekhushe Tv
 http://103.205.133.48/hls/ekushey.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla Tv ICC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Bangla_Tv_Logo.jpg" group-title="Bangla",Bangla Tv ICC
@@ -199,14 +199,20 @@ http://103.205.133.48/hls/sony8.m3u8
 http://163.172.29.246:8081/globalbd/sonyaath/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla SD" tvg-logo="" group-title="India Bangla",Zee Bangla SD
 http://103.205.133.20/hls/zeebangla.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla SD 2" tvg-logo="" group-title="India Bangla",Zee Bangla SD 2
+http://45.127.244.7:8080/hls/channel10.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD 1" tvg-logo="" group-title="India Bangla",Zee Bangla HD 1
 http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD" tvg-logo="" group-title="India Bangla",Zee Bangla HD
 https://botallen.live/t/522/master.m3u8?signature=51d5f6a4b6fce539d95b63009dd3b595d9aec666&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha SD" tvg-logo="" group-title="India Bangla",Star Jalsha SD
 http://103.205.133.20/hls/chsj.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha SD 2" tvg-logo="" group-title="India Bangla",Star Jalsha SD 2
+http://45.127.244.7:8080/hls/channel12.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="" group-title="India Bangla",Star Jalsha HD
 https://botallen.live/t/468/master.m3u8?signature=6576c4db8574fccb8ae26a5dae174df6269ab1af&unique=383dc6ddcdd3b7166230423ea3b90f6e
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalsha Movies SD" tvg-logo="" group-title="India Bangla",Jalsha Movies SD
+http://45.127.244.7:8080/hls/channel13.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalsha Movies HD" tvg-logo="" group-title="India Bangla",Jalsha Movies HD
 http://edge-sgp.bd-cast.net/master/cdn.banglatv.xyz:8080/beeiptv-stb/jalshamovies/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalsha Movies HD" tvg-logo="" group-title="India Bangla",Jalsha Movies HD
@@ -215,6 +221,8 @@ http://163.172.29.246:8081/globalbd/starjalshamovies/chunks.m3u8
 https://botallen.live/t/537/master.m3u8?signature=faecfc983d285e655226b7347fe2ec15f42364c9&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aakaash Aath" tvg-logo="" group-title="India Bangla",Aakaash Aath
 https://botallen.live/t/129/master.m3u8?signature=8156ffa19cd44b2e47f1d9ea19e777db1fc9d4fb&unique=1e612df97397ed212ba8e405a6bbab03
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla SD" tvg-logo="" group-title="India Bangla",Colors Bangla SD
+http://45.127.244.7:8080/hls/channel14.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla ICC" tvg-logo="" group-title="India Bangla",Colors Bangla ICC
 http://10.16.100.205/hls/colorsbd480.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla HD 1" tvg-logo="" group-title="India Bangla",Colors Bangla HD 1
@@ -223,6 +231,8 @@ http://163.172.29.246:8081/globalbd/colorsbangla/chunks.m3u8
 https://botallen.live/t/305/master.m3u8?signature=b534321514f567414b26665c77806ce7ad86a134&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cineema" tvg-logo="" group-title="India Bangla",Zee Bangla Cineema
 http://z5amshls.akamaized.net/zbanglacnm/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cineema" tvg-logo="" group-title="India Bangla",Zee Bangla Cineema
+http://45.127.244.7:8080/hls/channel11.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cineema" tvg-logo="" group-title="India Bangla",Enter 10 Bangla
 http://streamitv.multitvsolution.in/idvo/enter10bangla_360p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal PlaNet Hindi 540p" tvg-logo="" group-title="Discovery",Animal PlaNet Hindi 540p
@@ -253,7 +263,11 @@ https://botallen.live/t/228/master.m3u8?signature=d2e9b62bc99962f84eaf5b4a286d6d
 https://botallen.live/t/460/master.m3u8?signature=e6c068f23e489ca45b8d7665a0f5065a0c73762c&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="" group-title="Sports",T Sports
 http://45.127.244.7:8080/hls/channel2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="" group-title="Sports",Sony Six HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Six SD" tvg-logo="" group-title="Sports",Sony Six SD
+http://45.127.244.7:8080/hls/channel3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Six SD" tvg-logo="" group-title="Sports",Sony Six SD
+http://45.127.244.7:8080/hls/channel15.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Six HD" tvg-logo="" group-title="Sports",Sony Six HD
 http://208.115.215.42/Sony_SIx_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1 HD" tvg-logo="" group-title="Sports",Sony Ten 1 HD
 https://botallen.live/t/81/master.m3u8?signature=595ea3e7c4296e67a4f13476ed87b0d8952fe8fd&unique=1e612df97397ed212ba8e405a6bbab03
@@ -263,6 +277,8 @@ https://botallen.live/t/462/master.m3u8?signature=548dc8844f26dbc35de11e63c9d549
 https://botallen.live/t/464/master.m3u8?signature=4beee8b453992aab36e652d598e2322aaf324669&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 Hindi HD" tvg-logo="" group-title="Sports",Star Sports 1 Hindi HD
 https://botallen.live/t/24/master.m3u8?signature=0c6e63801076fd801727f6290b7d85f1bd0ce51f&unique=1e612df97397ed212ba8e405a6bbab03
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 Hindi SD" tvg-logo="" group-title="Sports",Star Sports 1 Hindi SD
+http://45.127.244.7:8080/hls/channel7.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD" tvg-logo="" group-title="Sports",Star Sports 1 HD
 https://botallen.live/t/78/master.m3u8?signature=fac9bca0cdc6a4368a7defceed3acaa035e5cb9f&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2 HD" tvg-logo="" group-title="Sports",Star Sports 2 HD
@@ -377,6 +393,8 @@ https://botallen.live/j/Sony_SAB/master.m3u8?signature=56d63921df229c1f763f44d71
 https://botallen.live/t/48/master.m3u8?signature=b7f82f71201872dfed6bf2d61234dfeeb4f2e760&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)"Jaya Max" tvg-name="" tvg-logo="" group-title="Indian Vip",Jaya Max
 https://botallen.live/t/199/master.m3u8?signature=63673b3379a791203a8f4e09fd0588f1012f7686&unique=1e612df97397ed212ba8e405a6bbab03
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Max" tvg-logo="" group-title="Indian Vip",Sony Max
+http://45.127.244.7:8080/hls/channel6.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Max HD" tvg-logo="" group-title="Indian Vip",Sony Max HD
 https://botallen.live/t/80/master.m3u8?signature=1affecb39b332b65d0076d47dfbc09a8de148f6f&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Max 2" tvg-logo="" group-title="Indian Vip",Sony Max 2
